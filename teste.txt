@@ -1,0 +1,2 @@
+ O Linux é o Kernel do Sistema Operacional
+ O Ubunto é uma distribuição Linux
