@@ -5,3 +5,5 @@
 ## Lista de receitas:
 
 - Lasanha;
+
+OBS: Como eu criei um diretório dentro de Receitas, não veio como pasta, mas sim como um link de diretório.
