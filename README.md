@@ -7,4 +7,5 @@
 - [x] Introdução ao Linux
 - [x] Introdução ao Terminal
 - [x] Introdução ao Git e GitHub
+- [ ] Introdução ao Java
 - [ ] Próximos cursos
